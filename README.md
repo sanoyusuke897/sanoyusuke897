@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Web engineer with 6+ years of experience. 
+
 <!--
 **sanoyusuke897/sanoyusuke897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
