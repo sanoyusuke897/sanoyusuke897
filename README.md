@@ -1,4 +1,4 @@
-[![GitHub Banner]([[./assets/profile.png](https://user-images.githubusercontent.com/98931362/229540588-c9d2d458-a08f-4802-a68d-d98ab45835c5.png)]()
+![image](https://user-images.githubusercontent.com/98931362/229540588-c9d2d458-a08f-4802-a68d-d98ab45835c5.png)
 
 
 ### Hi there 👋
