@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/98931362/229543547-2fba5a82-7b28-482a-afc3-d70a2e9ca965.png)
-
-
 ### Hi there 👋
 
 Web engineer with 6+ years of experience. 
